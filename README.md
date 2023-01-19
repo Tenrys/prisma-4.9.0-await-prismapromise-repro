@@ -1,5 +1,5 @@
 ```bash
-$ npm i -D
+$ yarn install -D
 
 $ npx prisma generate
 
