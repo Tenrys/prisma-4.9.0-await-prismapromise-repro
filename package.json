@@ -1,0 +1,10 @@
+{
+  "name": "prisma-4.9.0-await-prismapromise-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@prisma/client": "4.9",
+    "prisma": "4.9"
+  }
+}
